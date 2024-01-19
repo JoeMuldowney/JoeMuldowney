@@ -1,7 +1,7 @@
 👋 Hi, I’m Joe Muldowney
 
 👀 About Me:
-I'm a software developer and engineer with a passion for creating innovative solutions. I thrive on tackling complex challenges and constantly expanding my skills in the ever-evolving world of technology.
+I'm a software engineer with a passion for creating innovative solutions. I thrive on tackling complex challenges and constantly expanding my skills in the ever-evolving world of technology.
 
 🌱 Current Learning Focus:
 I'm actively learning and experimenting with C++, data structures and algorithms, artificial intelligence, and delving into the low-level aspects of computing through MIPS Assembly Language. This exploration not only enhances my understanding of computer architecture but also fuels my enthusiasm for tackling diverse challenges in software development.
