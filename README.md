@@ -10,6 +10,6 @@ I'm actively learning and experimenting with C++, data structures and algorithms
 I'm eager to collaborate on both open source and professional projects that align with my interests. Whether it's contributing to the community or working on cutting-edge applications, I'm excited about the possibilities that collaborative software development offers.
 
 📫 Contact:
-The best way to reach me is through my LinkedIn. Feel free to connect if you share similar interests, have project ideas, or just want to discuss the exciting world of software development!
+The best way to reach me is through my LinkedIn. Feel free to connect if you share similar interests, have project ideas, or just want to discuss the exciting world of technology!
 
-Looking forward to connecting with fellow developers and enthusiasts!
+Looking forward to connecting with fellow enthusiasts!
