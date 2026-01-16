@@ -1,15 +1,17 @@
 👋 Hi, I’m Joe Muldowney
 
-👀 About Me:
-I'm a computer scientist driven by a passion for innovation and a relentless pursuit of knowledge. I thrive on solving complex challenges and continuously expanding my skill set in the dynamic world of technology.
+👀 About Me  
+Software developer with a strong interest in building, learning, and experimenting across the stack. I enjoy tackling complex problems, exploring new technologies, and turning ideas into working systems.
 
-🌱 Current Learning Focus:
-Currently, I'm immersed in mastering DevOps tools, exploring Machine Learning, diving into backend frameworks, refining data structures and algorithms in C++, and deepening my understanding of databases.
+🌱 Currently Learning  
+- DevOps tools and workflows  
+- Deep Learning and AI fundamentals  
+- Microcontroller units (MCUs) and embedded systems  
+- Modern software development practices  
 
-💼 Professional Interests:
-I'm eager to collaborate on both open source and professional projects that align with my interests. Whether it's contributing to the community or working on cutting-edge applications, I'm excited about the possibilities that collaborative software development offers.
+💼 Interests & Collaboration  
+I’m open to collaborating on open-source and professional projects—especially those involving automation, systems design, AI, or low-level hardware/software integration.
 
-📫 Contact:
-The best way to reach me is through my LinkedIn. Feel free to connect if you share similar interests, have project ideas, or just want to discuss the exciting world of technology!
+📫 Get in Touch  
+The best way to reach me is via LinkedIn. Feel free to connect if you’d like to collaborate, share ideas, or talk tech.
 
-Looking forward to connecting with fellow enthusiasts!
