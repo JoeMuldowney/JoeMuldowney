@@ -7,7 +7,6 @@ Software developer with a strong interest in building, learning, and experimenti
 - DevOps tools and workflows  
 - Deep Learning and AI fundamentals  
 - Microcontroller units (MCUs) and embedded systems  
-- Modern software development practices  
 
 💼 Interests & Collaboration  
 I’m open to collaborating on open-source and professional projects—especially those involving automation, systems design, AI, or low-level hardware/software integration.
