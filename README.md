@@ -9,7 +9,7 @@ Software developer with a strong interest in building, learning, and experimenti
 - Microcontroller units (MCUs) and embedded systems  
 
 💼 Interests & Collaboration  
-I’m open to collaborating on open-source and professional projects—especially those involving automation, systems design, AI, or low-level hardware/software integration.
+I’m open to collaborating on open-source and professional projects, especially those involving automation, cloud, IaC, AI, or DevOps.
 
 📫 Get in Touch  
 The best way to reach me is via LinkedIn. Feel free to connect if you’d like to collaborate, share ideas, or talk tech.
