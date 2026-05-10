@@ -4,7 +4,7 @@
 Software developer with a strong interest in building, learning, and experimenting across the stack. I enjoy tackling complex problems, exploring new technologies, and turning ideas into working systems.
 
 🌱 Currently Learning  
-- DevOps tools and workflows  
+- DevSecOps tools and workflows  
 - Deep Learning and AI fundamentals  
 - Microcontroller units (MCUs) and embedded systems  
 
